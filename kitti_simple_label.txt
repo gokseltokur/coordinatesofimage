@@ -1,0 +1,2 @@
+images/ex2.png,112,144,391,329,images
+images/ex3.png,87,146,370,359,images
